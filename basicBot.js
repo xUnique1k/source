@@ -309,7 +309,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: https://pastebin.com/6d2V93uC,
+            rulesLink: 'https://pastebin.com/6d2V93uC',
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
